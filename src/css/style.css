@@ -57,12 +57,13 @@ body {
 }
 
 .botoes-carrossel .botao {
+  background-color: #ffffff;
   width: 15px;
   height: 15px;
   border-radius: 50%;
   border: 2px solid transparent;
   cursor: pointer;
-  borde-color: #ffffff;
+  border-color: #ffffff;
 }
 
 .botoes-carrossel .botao.selecionado {
